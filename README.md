@@ -112,18 +112,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Sample Results
-
-### Original Image
-
-(Add Screenshot Here)
-
-### Detection Result
-
-(Add Screenshot Here)
-
----
-
 ## 📈 Future Enhancements
 
 * Number Plate Detection
