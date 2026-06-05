@@ -142,6 +142,3 @@ Interested in:
 * Machine Learning
 * Computer Vision
 * Full Stack Development
-
-GitHub:
-https://github.com/PraveenaRajendiran
